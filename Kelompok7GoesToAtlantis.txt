@@ -28,5 +28,8 @@ Mereka meminta bantuan mbak mbak alfamart dan Posedion untuk mengalahkan Cacing 
 Ternyata cacing besar alaska bisa dikalahkan dengan mudah, yaitu dengan memberikan makanan dan minuman alfamart
 --228 Afrizal Sebastian
 Setelah memenagkan pertarungan itu, Seekor Gurita Besar bernama Kraken mulai mengganggu Kelompok 7 dan Poseidon
+<<<<<<< HEAD
 --410 Daniel Salim
 Merasa telah memenangi peperangan, kelompok 7 lengah dan Kraken berhasil membolongi kapal selam mereka, kelompok 7 pun panik.
+=======
+>>>>>>> 11bbf2746eecdb48611136b03668d8867189f1ed
